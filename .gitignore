@@ -42,3 +42,4 @@ Thumbs.db
 src/.classpath
 *.xml
 /bin/
+/php/config.php
